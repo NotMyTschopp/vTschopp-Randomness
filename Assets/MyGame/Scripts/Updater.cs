@@ -18,7 +18,7 @@ public class Updater : MonoBehaviour {
     
     private void Start()
     {
-        inputtext = "change text";
+        // inputtext = "change text";
 
         colorList = new List<Color> {
             Color.red,
