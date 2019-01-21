@@ -8,7 +8,7 @@ public class Updater : MonoBehaviour {
     public Text text;
     public string inputtext;
     public GameObject circleColor;
-    public Color color;
+    // public Color color;
     public GameObject[] shuffleCircles;
 
     [SerializeField] GameObject circlePosition;
