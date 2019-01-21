@@ -1717,7 +1717,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Random Object Position Update
+  m_Text: Random Object Color Shuffle
 --- !u!222 &1887613082
 CanvasRenderer:
   m_ObjectHideFlags: 0
