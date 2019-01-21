@@ -30,7 +30,7 @@ public class Updater : MonoBehaviour {
 
     public void UpdateTextWithInspectorInput()
     {
-        Text.text = inputtext;
+        text.text = inputtext;
     }
 
     public void UpdateCircleColor()
