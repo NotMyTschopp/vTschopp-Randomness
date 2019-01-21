@@ -41,7 +41,7 @@ public class Updater : MonoBehaviour {
         byte b = (byte)rnd.Next(0, 255);
         // byte a = (byte)rnd.Next(0, 255);
 
-        circRenderer.color = new Color32(r, g, b, a);
+        circRenderer.color = new Color32(r, g, b, 255);
     }
 	
     public void UpdateObjectPosition()
