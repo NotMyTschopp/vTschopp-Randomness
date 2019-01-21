@@ -39,7 +39,7 @@ public class Updater : MonoBehaviour {
         byte r = (byte)rnd.Next(0, 255);
         byte g = (byte)rnd.Next(0, 255);
         byte b = (byte)rnd.Next(0, 255);
-        byte a = (byte)rnd.Next(0, 255);
+        // byte a = (byte)rnd.Next(0, 255);
 
         circRenderer.color = new Color32(r, g, b, a);
     }
